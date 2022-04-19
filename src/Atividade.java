@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class main {
+public class Atividade {
     public static void main(String[] args) {
         LDE ListaDeItens1 = new LDE();
         LDE ListaDeItens2 = new LDE();
